@@ -25,12 +25,12 @@ export const metadata = {
     locale: "en_US",
     images: [
       {
-        url: "/logo.jpg",
+        url: "https://imgs.search.brave.com/jQ6k8xf2EhS3Ua5Q2osqTvddTj0g20qsZgpnov6BsNM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92aXRh/bGVudHVtLm5ldC91/cGxvYWQvMDE2L3Ux/NjIxLzAvMC8wMDBk/NWFjYS53ZWJw",
         width: 1200,
         height: 630,
       },
       {
-        url: "/og/rooms.png",
+        url: "https://imgs.search.brave.com/jQ6k8xf2EhS3Ua5Q2osqTvddTj0g20qsZgpnov6BsNM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92aXRh/bGVudHVtLm5ldC91/cGxvYWQvMDE2L3Ux/NjIxLzAvMC8wMDBk/NWFjYS53ZWJw",
         width: 1200,
         height: 630,
       },
