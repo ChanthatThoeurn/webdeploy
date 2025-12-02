@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { motion } from "framer-motion";
+import { rm } from "fs";
 
 export default function AboutUs() {
   // Team Members

@@ -37,6 +37,9 @@ export default function Header() {
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center gap-8">
+            <Link href="/" className="text-foreground hover:text-primary transition">
+              Home
+            </Link>
             <Link href="/search" className="text-foreground hover:text-primary transition">
               Search Hotels
             </Link>
